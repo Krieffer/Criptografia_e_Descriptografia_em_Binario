@@ -1,0 +1,18 @@
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\menu.vbprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\menu.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frm_menu.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frm_sobre.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frm_cripto.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frm_descripto.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Criptografia e Descriptografia em Binário.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\CripDescrip.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\CripDescripFramework.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\CripDescripFramework.DeviceAccess.dll.exe.config
