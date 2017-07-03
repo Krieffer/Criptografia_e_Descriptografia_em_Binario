@@ -51,7 +51,6 @@ Partial Class frm_descripto
         'txb_textdescrip
         '
         Me.txb_textdescrip.DetectUrls = False
-        Me.txb_textdescrip.Enabled = False
         Me.txb_textdescrip.Location = New System.Drawing.Point(12, 219)
         Me.txb_textdescrip.Name = "txb_textdescrip"
         Me.txb_textdescrip.ReadOnly = True
