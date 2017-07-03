@@ -17,6 +17,6 @@
     End Sub
 
     Private Sub frm_descripto_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
+        encheVetores()
     End Sub
 End Class

@@ -12,7 +12,3 @@ C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApp
 C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\CripDescripFramework.DeviceAccess.dll.exe
 C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\CripDescripFramework.DeviceAccess.dll.xml
 C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\CripDescripFramework.DeviceAccess.dll.pdb
-C:\Users\PC\Source\Repos\Criptografia_e_Descriptografia_em_Binario\WindowsApplication1\bin\Debug\CripDescripFramework.DeviceAccess.dll.exe.config
-C:\Users\PC\Source\Repos\Criptografia_e_Descriptografia_em_Binario\WindowsApplication1\obj\Debug\CripDescripFramework.DeviceAccess.dll.exe
-C:\Users\PC\Source\Repos\Criptografia_e_Descriptografia_em_Binario\WindowsApplication1\obj\Debug\CripDescripFramework.DeviceAccess.dll.xml
-C:\Users\PC\Source\Repos\Criptografia_e_Descriptografia_em_Binario\WindowsApplication1\obj\Debug\CripDescripFramework.DeviceAccess.dll.pdb
