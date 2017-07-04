@@ -55,7 +55,7 @@ Partial Class frm_sobre
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(109, 15)
         Me.Label3.TabIndex = 2
-        Me.Label3.Text = "Versão: 0.0.1/2017"
+        Me.Label3.Text = "Versão: 0.1.0/2017"
         '
         'frm_sobre
         '

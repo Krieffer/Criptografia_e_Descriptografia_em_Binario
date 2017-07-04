@@ -12,3 +12,17 @@ C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApp
 C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\CripDescripFramework.DeviceAccess.dll.exe
 C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\CripDescripFramework.DeviceAccess.dll.xml
 C:\Users\PC\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\CripDescripFramework.DeviceAccess.dll.pdb
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\obj\Debug\crip_descrip.vbprojResolveAssemblyReference.cache
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\obj\Debug\KODO.CripDescripFramework.DeviceAccess.frm_cripto.resources
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\obj\Debug\KODO.CripDescripFramework.DeviceAccess.frm_descripto.resources
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\obj\Debug\KODO.CripDescripFramework.DeviceAccess.frm_menu.resources
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\obj\Debug\KODO.CripDescripFramework.DeviceAccess.frm_sobre.resources
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\obj\Debug\KODO.CripDescripFramework.DeviceAccess.Resources.resources
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\obj\Debug\crip_descrip.vbproj.GenerateResource.Cache
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\obj\Debug\CripDescripFramework.DeviceAccess.dll.exe
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\obj\Debug\CripDescripFramework.DeviceAccess.dll.xml
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\obj\Debug\CripDescripFramework.DeviceAccess.dll.pdb
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\bin\Debug\CripDescripFramework.DeviceAccess.dll.exe.config
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\bin\Debug\CripDescripFramework.DeviceAccess.dll.exe
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\bin\Debug\CripDescripFramework.DeviceAccess.dll.pdb
+C:\Users\70601416180\Source\Repos\Criptografia_e_Descriptografia_em_Binario-master\WindowsApplication1\bin\Debug\CripDescripFramework.DeviceAccess.dll.xml
