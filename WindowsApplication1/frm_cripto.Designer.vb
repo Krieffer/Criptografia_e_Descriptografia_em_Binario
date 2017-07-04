@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class frm_cripto
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class frm_cripto
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.txb_textncrip = New System.Windows.Forms.RichTextBox()
@@ -28,7 +28,6 @@ Partial Class frm_cripto
         Me.txb_textcrip = New System.Windows.Forms.RichTextBox()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.btn_limpar = New System.Windows.Forms.Button()
-        Me.lbl_textcrip = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label1
@@ -86,28 +85,19 @@ Partial Class frm_cripto
         Me.btn_limpar.Text = "Limpar"
         Me.btn_limpar.UseVisualStyleBackColor = True
         '
-        'lbl_textcrip
-        '
-        Me.lbl_textcrip.AutoSize = True
-        Me.lbl_textcrip.Location = New System.Drawing.Point(21, 229)
-        Me.lbl_textcrip.Name = "lbl_textcrip"
-        Me.lbl_textcrip.Size = New System.Drawing.Size(39, 13)
-        Me.lbl_textcrip.TabIndex = 7
-        Me.lbl_textcrip.Text = "Label3"
-        '
         'frm_cripto
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.CausesValidation = False
         Me.ClientSize = New System.Drawing.Size(342, 338)
-        Me.Controls.Add(Me.lbl_textcrip)
         Me.Controls.Add(Me.btn_limpar)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.txb_textcrip)
         Me.Controls.Add(Me.btn_ativarcrip)
         Me.Controls.Add(Me.txb_textncrip)
         Me.Controls.Add(Me.Label1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.MaximizeBox = False
         Me.Name = "frm_cripto"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
@@ -123,5 +113,4 @@ Partial Class frm_cripto
     Friend WithEvents txb_textcrip As RichTextBox
     Friend WithEvents Label2 As Label
     Friend WithEvents btn_limpar As Button
-    Friend WithEvents lbl_textcrip As Label
 End Class

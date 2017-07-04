@@ -1,3 +1,3 @@
 ﻿Module md_vetorBinario
-    Public vet_binarios(25) As Integer
+    Public vet_binarios(61) As String
 End Module

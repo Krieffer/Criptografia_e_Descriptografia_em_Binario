@@ -96,6 +96,7 @@ Partial Class frm_descripto
         Me.Controls.Add(Me.btn_ativardescrip)
         Me.Controls.Add(Me.txb_textndescrip)
         Me.Controls.Add(Me.Label1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.MaximizeBox = False
         Me.Name = "frm_descripto"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
