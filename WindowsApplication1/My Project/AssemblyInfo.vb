@@ -11,7 +11,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyTitle("Criptografia e Descriptografia em Binário")>
 <Assembly: AssemblyDescription("Criptografa textos para binário e descriptografa binários para texto, conforme a tabla ASCII")>
 <Assembly: AssemblyCompany("KODO Developers")>
-<Assembly: AssemblyProduct("bin_drip_descrip")>
+<Assembly: AssemblyProduct("bin_crip_descrip")>
 <Assembly: AssemblyCopyright("Copyright ©  2017")>
 <Assembly: AssemblyTrademark("™")>
 

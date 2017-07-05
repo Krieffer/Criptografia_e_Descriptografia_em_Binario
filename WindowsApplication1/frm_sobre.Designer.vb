@@ -51,11 +51,11 @@ Partial Class frm_sobre
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(77, 90)
+        Me.Label3.Location = New System.Drawing.Point(66, 90)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(109, 15)
+        Me.Label3.Size = New System.Drawing.Size(142, 15)
         Me.Label3.TabIndex = 2
-        Me.Label3.Text = "Versão: 0.1.0/2017"
+        Me.Label3.Text = "Versão: 0.1.0/2017 BETA"
         '
         'frm_sobre
         '
